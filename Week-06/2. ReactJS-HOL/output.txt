@@ -1,5 +1,5 @@
 
-Expected Output on http://localhost:3000:
+Output on http://localhost:3000:
 
 Welcome to the Home page of Student Management Portal
 Welcome to the About page of the Student Management Portal
