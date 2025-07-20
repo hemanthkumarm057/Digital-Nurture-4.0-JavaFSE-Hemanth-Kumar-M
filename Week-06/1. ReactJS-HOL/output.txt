@@ -1,5 +1,4 @@
-
-Expected Output when running the app on localhost:3000:
+Output when running the app on localhost:3000:
 
 -------------------------------------
 Welcome to the first session of React
