@@ -1,4 +1,3 @@
-
 Output on http://localhost:3000:
 
 Welcome to the Home page of Student Management Portal
