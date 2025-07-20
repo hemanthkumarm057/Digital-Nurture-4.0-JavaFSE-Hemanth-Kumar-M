@@ -1,5 +1,4 @@
-
-Sample Execution Output:
+Execution Output:
 
 - Renders a cohort with name 'React Basics'
 - Status: ongoing (appears in green)
