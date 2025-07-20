@@ -1,5 +1,4 @@
-
-Expected Output on http://localhost:3000:
+Output on http://localhost:3000:
 
 Student Score Calculator
 Name: John Doe
